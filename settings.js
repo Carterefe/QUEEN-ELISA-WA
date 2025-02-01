@@ -28,9 +28,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: 'SINNED',
+  OWNER_NUMBER: '2349165278728',
+  SUDO: '2349165278728',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
@@ -43,8 +43,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_AS_GIF: false,//this only work for short videos
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
-  OWNER_REACT: true,
-  AUTO_REACT: true,
+  OWNER_REACT: false,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
@@ -54,8 +54,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_VIEW_ONES: false, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
-  BLOCK_CMD_MSG_SEND: true,
-  INBOX_BLOCK_MSG_SEND: true,
+  BLOCK_CMD_MSG_SEND: false,
+  INBOX_BLOCK_MSG_SEND: false,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,// disabled
